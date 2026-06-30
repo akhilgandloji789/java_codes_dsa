@@ -15,6 +15,4 @@ public class login {
             System.out.println("Invalid Username or Password");
         }
     }
-
-    
 }
